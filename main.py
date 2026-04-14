@@ -12,17 +12,6 @@ Orchestrates the flow between screens:
 Also manages loading/saving of vocabulary and progress data.
 """
 
-
-
-
-
-
-
-
-
-
-
-
 import os
 import sys
 from data_loader import load_vocabulary, load_progress, save_progress
